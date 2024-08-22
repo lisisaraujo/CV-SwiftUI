@@ -16,7 +16,7 @@ struct AboutMeView: View {
     var body: some View {
         ZStack {
             TabView(selection: $currentPage) {
-                VStack {
+                VStack(spacing: 0) {
                     Image(aboutMe.profilePic)
                         .resizable()
                         .scaledToFit()
@@ -34,7 +34,7 @@ struct AboutMeView: View {
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
                 .background(.primaryBlue)
                 
-                VStack {
+                VStack(spacing: 0) {
                     Text(aboutMe.description)
                         .font(.body)
                         .foregroundColor(.white)
@@ -49,7 +49,7 @@ struct AboutMeView: View {
             .clipShape(RoundedCorner(radius: 50, corners: [.bottomLeft, .bottomRight]))
             
             //scroll indicator
-            VStack {
+            VStack(spacing: 0) {
                 Spacer()
                 HStack(spacing: 8) {
                     ForEach(0..<2) { index in
@@ -67,7 +67,7 @@ struct AboutMeView: View {
     }
 }
 
-// Custom shape to apply corner radius to specific corners
+// Custom shape to apply corner radius to specific corners -- taken from the internet 
 struct RoundedCorner: Shape {
     var radius: CGFloat = .infinity
     var corners: UIRectCorner

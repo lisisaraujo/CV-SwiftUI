@@ -9,9 +9,15 @@
 /* Begin PBXBuildFile section */
 		A77C5A9A2C74CDD4002D9F6C /* CVView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5A992C74CDD4002D9F6C /* CVView.swift */; };
 		A77C5AA12C75ED2D002D9F6C /* _3_01_LebenslaufApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AA02C75ED2D002D9F6C /* _3_01_LebenslaufApp.swift */; };
-		A77C5AA72C763BBE002D9F6C /* EducationContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AA62C763BBE002D9F6C /* EducationContent.swift */; };
-		A77C5AA92C763C1F002D9F6C /* ExperienceContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AA82C763C1F002D9F6C /* ExperienceContent.swift */; };
 		A77C5AAD2C772FF1002D9F6C /* SkillCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AAC2C772FF1002D9F6C /* SkillCategory.swift */; };
+		A77C5AB12C775763002D9F6C /* _3_01_LebenslaufApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AB02C775763002D9F6C /* _3_01_LebenslaufApp.swift */; };
+		A77C5AB32C777185002D9F6C /* Projects.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AB22C777185002D9F6C /* Projects.swift */; };
+		A77C5AB52C7771D2002D9F6C /* ProjectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AB42C7771D2002D9F6C /* ProjectsView.swift */; };
+		A77C5AB72C77730E002D9F6C /* LanguagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AB62C77730E002D9F6C /* LanguagesView.swift */; };
+		A77C5ABB2C777375002D9F6C /* Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5ABA2C777375002D9F6C /* Language.swift */; };
+		A77C5ABD2C777814002D9F6C /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5ABC2C777814002D9F6C /* ButtonView.swift */; };
+		A77C5ABF2C77797A002D9F6C /* ContactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5ABE2C77797A002D9F6C /* ContactView.swift */; };
+		A77C5AC12C7779B8002D9F6C /* Contact.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AC02C7779B8002D9F6C /* Contact.swift */; };
 		A7B697622C749C3F00D2E69E /* AboutMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B697612C749C3F00D2E69E /* AboutMe.swift */; };
 		A7B697642C749C4D00D2E69E /* Section.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B697632C749C4D00D2E69E /* Section.swift */; };
 		A7B697682C749E2A00D2E69E /* Education.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B697672C749E2A00D2E69E /* Education.swift */; };
@@ -29,9 +35,15 @@
 /* Begin PBXFileReference section */
 		A77C5A992C74CDD4002D9F6C /* CVView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CVView.swift; sourceTree = "<group>"; };
 		A77C5AA02C75ED2D002D9F6C /* _3_01_LebenslaufApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = _3_01_LebenslaufApp.swift; path = ../../../../.Trash/_3_01_LebenslaufApp.swift; sourceTree = "<group>"; };
-		A77C5AA62C763BBE002D9F6C /* EducationContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EducationContent.swift; sourceTree = "<group>"; };
-		A77C5AA82C763C1F002D9F6C /* ExperienceContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperienceContent.swift; sourceTree = "<group>"; };
 		A77C5AAC2C772FF1002D9F6C /* SkillCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillCategory.swift; sourceTree = "<group>"; };
+		A77C5AB02C775763002D9F6C /* _3_01_LebenslaufApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = _3_01_LebenslaufApp.swift; path = ../../../.Trash/_3_01_LebenslaufApp.swift; sourceTree = "<group>"; };
+		A77C5AB22C777185002D9F6C /* Projects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Projects.swift; sourceTree = "<group>"; };
+		A77C5AB42C7771D2002D9F6C /* ProjectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectsView.swift; sourceTree = "<group>"; };
+		A77C5AB62C77730E002D9F6C /* LanguagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguagesView.swift; sourceTree = "<group>"; };
+		A77C5ABA2C777375002D9F6C /* Language.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Language.swift; sourceTree = "<group>"; };
+		A77C5ABC2C777814002D9F6C /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		A77C5ABE2C77797A002D9F6C /* ContactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactView.swift; sourceTree = "<group>"; };
+		A77C5AC02C7779B8002D9F6C /* Contact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contact.swift; sourceTree = "<group>"; };
 		A7B697612C749C3F00D2E69E /* AboutMe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutMe.swift; sourceTree = "<group>"; };
 		A7B697632C749C4D00D2E69E /* Section.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Section.swift; sourceTree = "<group>"; };
 		A7B697672C749E2A00D2E69E /* Education.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Education.swift; sourceTree = "<group>"; };
@@ -68,6 +80,10 @@
 				A7B697772C749F3300D2E69E /* EducationView.swift */,
 				A7B697792C749F3E00D2E69E /* ExperienceView.swift */,
 				A7B6977B2C749F8300D2E69E /* SectionView.swift */,
+				A77C5AB42C7771D2002D9F6C /* ProjectsView.swift */,
+				A77C5AB62C77730E002D9F6C /* LanguagesView.swift */,
+				A77C5ABC2C777814002D9F6C /* ButtonView.swift */,
+				A77C5ABE2C77797A002D9F6C /* ContactView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -79,9 +95,10 @@
 				A7B697632C749C4D00D2E69E /* Section.swift */,
 				A7B697672C749E2A00D2E69E /* Education.swift */,
 				A7B697692C749E4800D2E69E /* Experience.swift */,
-				A77C5AA62C763BBE002D9F6C /* EducationContent.swift */,
-				A77C5AA82C763C1F002D9F6C /* ExperienceContent.swift */,
 				A77C5AAC2C772FF1002D9F6C /* SkillCategory.swift */,
+				A77C5AB22C777185002D9F6C /* Projects.swift */,
+				A77C5ABA2C777375002D9F6C /* Language.swift */,
+				A77C5AC02C7779B8002D9F6C /* Contact.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -112,6 +129,7 @@
 		CE95A6312C747F9000AF3E56 /* 03-01-Lebenslauf */ = {
 			isa = PBXGroup;
 			children = (
+				A77C5AB02C775763002D9F6C /* _3_01_LebenslaufApp.swift */,
 				A7B6975E2C749B9900D2E69E /* Views */,
 				A7B697602C749BB200D2E69E /* View Models */,
 				A7B6975F2C749BA000D2E69E /* Model */,
@@ -201,20 +219,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7B697642C749C4D00D2E69E /* Section.swift in Sources */,
+				A77C5ABF2C77797A002D9F6C /* ContactView.swift in Sources */,
 				A7B697682C749E2A00D2E69E /* Education.swift in Sources */,
 				A7B697742C749F1900D2E69E /* SkillsView.swift in Sources */,
+				A77C5AC12C7779B8002D9F6C /* Contact.swift in Sources */,
+				A77C5ABB2C777375002D9F6C /* Language.swift in Sources */,
 				A77C5A9A2C74CDD4002D9F6C /* CVView.swift in Sources */,
 				A7B697702C749EF500D2E69E /* AboutMeView.swift in Sources */,
 				A7B6976A2C749E4800D2E69E /* Experience.swift in Sources */,
-				A77C5AA72C763BBE002D9F6C /* EducationContent.swift in Sources */,
+				A77C5AB52C7771D2002D9F6C /* ProjectsView.swift in Sources */,
+				A77C5AB12C775763002D9F6C /* _3_01_LebenslaufApp.swift in Sources */,
+				A77C5AB72C77730E002D9F6C /* LanguagesView.swift in Sources */,
 				A77C5AA12C75ED2D002D9F6C /* _3_01_LebenslaufApp.swift in Sources */,
 				A7B697622C749C3F00D2E69E /* AboutMe.swift in Sources */,
-				A77C5AA92C763C1F002D9F6C /* ExperienceContent.swift in Sources */,
 				A7B697782C749F3300D2E69E /* EducationView.swift in Sources */,
 				A7B6977C2C749F8300D2E69E /* SectionView.swift in Sources */,
 				A77C5AAD2C772FF1002D9F6C /* SkillCategory.swift in Sources */,
 				A7B6976E2C749EDE00D2E69E /* HeaderView.swift in Sources */,
 				A7B6977A2C749F3E00D2E69E /* ExperienceView.swift in Sources */,
+				A77C5AB32C777185002D9F6C /* Projects.swift in Sources */,
+				A77C5ABD2C777814002D9F6C /* ButtonView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

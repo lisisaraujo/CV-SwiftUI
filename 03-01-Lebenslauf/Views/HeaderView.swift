@@ -35,11 +35,15 @@ struct HeaderView: View {
         }
         .padding()
         .background(.primaryBlue)
-        Spacer()
+
     }
     
 }
 
 #Preview {
-    HeaderView(title: "Lisis")
+    VStack{
+        HeaderView(title: "Lisis")
+        Spacer()
+    }
+  
 }
