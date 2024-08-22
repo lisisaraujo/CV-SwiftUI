@@ -7,16 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CE95A6332C747F9000AF3E56 /* _3_01_LebenslaufApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE95A6322C747F9000AF3E56 /* _3_01_LebenslaufApp.swift */; };
-		CE95A6352C747F9000AF3E56 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE95A6342C747F9000AF3E56 /* ContentView.swift */; };
+		A77C5A9A2C74CDD4002D9F6C /* CVView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5A992C74CDD4002D9F6C /* CVView.swift */; };
+		A77C5AA12C75ED2D002D9F6C /* _3_01_LebenslaufApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AA02C75ED2D002D9F6C /* _3_01_LebenslaufApp.swift */; };
+		A77C5AA72C763BBE002D9F6C /* EducationContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AA62C763BBE002D9F6C /* EducationContent.swift */; };
+		A77C5AA92C763C1F002D9F6C /* ExperienceContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AA82C763C1F002D9F6C /* ExperienceContent.swift */; };
+		A77C5AAD2C772FF1002D9F6C /* SkillCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77C5AAC2C772FF1002D9F6C /* SkillCategory.swift */; };
+		A7B697622C749C3F00D2E69E /* AboutMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B697612C749C3F00D2E69E /* AboutMe.swift */; };
+		A7B697642C749C4D00D2E69E /* Section.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B697632C749C4D00D2E69E /* Section.swift */; };
+		A7B697682C749E2A00D2E69E /* Education.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B697672C749E2A00D2E69E /* Education.swift */; };
+		A7B6976A2C749E4800D2E69E /* Experience.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B697692C749E4800D2E69E /* Experience.swift */; };
+		A7B6976E2C749EDE00D2E69E /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B6976D2C749EDE00D2E69E /* HeaderView.swift */; };
+		A7B697702C749EF500D2E69E /* AboutMeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B6976F2C749EF500D2E69E /* AboutMeView.swift */; };
+		A7B697742C749F1900D2E69E /* SkillsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B697732C749F1900D2E69E /* SkillsView.swift */; };
+		A7B697782C749F3300D2E69E /* EducationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B697772C749F3300D2E69E /* EducationView.swift */; };
+		A7B6977A2C749F3E00D2E69E /* ExperienceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B697792C749F3E00D2E69E /* ExperienceView.swift */; };
+		A7B6977C2C749F8300D2E69E /* SectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B6977B2C749F8300D2E69E /* SectionView.swift */; };
 		CE95A6372C747F9200AF3E56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE95A6362C747F9200AF3E56 /* Assets.xcassets */; };
 		CE95A63A2C747F9200AF3E56 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE95A6392C747F9200AF3E56 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A77C5A992C74CDD4002D9F6C /* CVView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CVView.swift; sourceTree = "<group>"; };
+		A77C5AA02C75ED2D002D9F6C /* _3_01_LebenslaufApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = _3_01_LebenslaufApp.swift; path = ../../../../.Trash/_3_01_LebenslaufApp.swift; sourceTree = "<group>"; };
+		A77C5AA62C763BBE002D9F6C /* EducationContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EducationContent.swift; sourceTree = "<group>"; };
+		A77C5AA82C763C1F002D9F6C /* ExperienceContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperienceContent.swift; sourceTree = "<group>"; };
+		A77C5AAC2C772FF1002D9F6C /* SkillCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillCategory.swift; sourceTree = "<group>"; };
+		A7B697612C749C3F00D2E69E /* AboutMe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutMe.swift; sourceTree = "<group>"; };
+		A7B697632C749C4D00D2E69E /* Section.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Section.swift; sourceTree = "<group>"; };
+		A7B697672C749E2A00D2E69E /* Education.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Education.swift; sourceTree = "<group>"; };
+		A7B697692C749E4800D2E69E /* Experience.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Experience.swift; sourceTree = "<group>"; };
+		A7B6976D2C749EDE00D2E69E /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		A7B6976F2C749EF500D2E69E /* AboutMeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutMeView.swift; sourceTree = "<group>"; };
+		A7B697732C749F1900D2E69E /* SkillsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillsView.swift; sourceTree = "<group>"; };
+		A7B697772C749F3300D2E69E /* EducationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EducationView.swift; sourceTree = "<group>"; };
+		A7B697792C749F3E00D2E69E /* ExperienceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperienceView.swift; sourceTree = "<group>"; };
+		A7B6977B2C749F8300D2E69E /* SectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionView.swift; sourceTree = "<group>"; };
 		CE95A62F2C747F9000AF3E56 /* 03-01-Lebenslauf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "03-01-Lebenslauf.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CE95A6322C747F9000AF3E56 /* _3_01_LebenslaufApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _3_01_LebenslaufApp.swift; sourceTree = "<group>"; };
-		CE95A6342C747F9000AF3E56 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CE95A6362C747F9200AF3E56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE95A6392C747F9200AF3E56 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -32,6 +58,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A7B6975E2C749B9900D2E69E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A77C5A992C74CDD4002D9F6C /* CVView.swift */,
+				A7B6976D2C749EDE00D2E69E /* HeaderView.swift */,
+				A7B6976F2C749EF500D2E69E /* AboutMeView.swift */,
+				A7B697732C749F1900D2E69E /* SkillsView.swift */,
+				A7B697772C749F3300D2E69E /* EducationView.swift */,
+				A7B697792C749F3E00D2E69E /* ExperienceView.swift */,
+				A7B6977B2C749F8300D2E69E /* SectionView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A7B6975F2C749BA000D2E69E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A7B697612C749C3F00D2E69E /* AboutMe.swift */,
+				A7B697632C749C4D00D2E69E /* Section.swift */,
+				A7B697672C749E2A00D2E69E /* Education.swift */,
+				A7B697692C749E4800D2E69E /* Experience.swift */,
+				A77C5AA62C763BBE002D9F6C /* EducationContent.swift */,
+				A77C5AA82C763C1F002D9F6C /* ExperienceContent.swift */,
+				A77C5AAC2C772FF1002D9F6C /* SkillCategory.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A7B697602C749BB200D2E69E /* View Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "View Models";
+			sourceTree = "<group>";
+		};
 		CE95A6262C747F9000AF3E56 = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +112,9 @@
 		CE95A6312C747F9000AF3E56 /* 03-01-Lebenslauf */ = {
 			isa = PBXGroup;
 			children = (
-				CE95A6322C747F9000AF3E56 /* _3_01_LebenslaufApp.swift */,
-				CE95A6342C747F9000AF3E56 /* ContentView.swift */,
+				A7B6975E2C749B9900D2E69E /* Views */,
+				A7B697602C749BB200D2E69E /* View Models */,
+				A7B6975F2C749BA000D2E69E /* Model */,
 				CE95A6362C747F9200AF3E56 /* Assets.xcassets */,
 				CE95A6382C747F9200AF3E56 /* Preview Content */,
 			);
@@ -62,6 +124,7 @@
 		CE95A6382C747F9200AF3E56 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				A77C5AA02C75ED2D002D9F6C /* _3_01_LebenslaufApp.swift */,
 				CE95A6392C747F9200AF3E56 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -137,8 +200,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE95A6352C747F9000AF3E56 /* ContentView.swift in Sources */,
-				CE95A6332C747F9000AF3E56 /* _3_01_LebenslaufApp.swift in Sources */,
+				A7B697642C749C4D00D2E69E /* Section.swift in Sources */,
+				A7B697682C749E2A00D2E69E /* Education.swift in Sources */,
+				A7B697742C749F1900D2E69E /* SkillsView.swift in Sources */,
+				A77C5A9A2C74CDD4002D9F6C /* CVView.swift in Sources */,
+				A7B697702C749EF500D2E69E /* AboutMeView.swift in Sources */,
+				A7B6976A2C749E4800D2E69E /* Experience.swift in Sources */,
+				A77C5AA72C763BBE002D9F6C /* EducationContent.swift in Sources */,
+				A77C5AA12C75ED2D002D9F6C /* _3_01_LebenslaufApp.swift in Sources */,
+				A7B697622C749C3F00D2E69E /* AboutMe.swift in Sources */,
+				A77C5AA92C763C1F002D9F6C /* ExperienceContent.swift in Sources */,
+				A7B697782C749F3300D2E69E /* EducationView.swift in Sources */,
+				A7B6977C2C749F8300D2E69E /* SectionView.swift in Sources */,
+				A77C5AAD2C772FF1002D9F6C /* SkillCategory.swift in Sources */,
+				A7B6976E2C749EDE00D2E69E /* HeaderView.swift in Sources */,
+				A7B6977A2C749F3E00D2E69E /* ExperienceView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,13 +348,15 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"03-01-Lebenslauf/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -286,6 +364,8 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "de.syntax-institut.-3-01-Lebenslauf";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -300,13 +380,15 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"03-01-Lebenslauf/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -314,6 +396,8 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "de.syntax-institut.-3-01-Lebenslauf";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
